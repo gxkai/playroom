@@ -1,0 +1,26 @@
+{
+  "name": "typescript-playroom",
+  "version": "0.1.0",
+  "description": "TypeScript for Braid Design System",
+  "scripts": {
+    "start": "playroom start"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.1.0",
+    "@types/react": "^16.7.13",
+    "babel-loader": "^8.0.4",
+    "css-loader": "^3.2.0",
+    "node-sass": "^4.12.0",
+    "playroom": "^0.9.4",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "react": "^16.6.3"
+  }
+}
